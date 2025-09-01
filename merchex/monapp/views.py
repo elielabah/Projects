@@ -4,4 +4,4 @@ from django.shortcuts import render
 from django.http import HttpResponse
 
 def hello(request):
-    return HttpResponse("Bonjour depuis mon app!")
+    return HttpResponse("Bonjour depuis mon app!je suis Elie")
